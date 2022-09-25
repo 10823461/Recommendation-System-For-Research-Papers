@@ -14,6 +14,7 @@ templates - This folder has the HTML template that users may use to enter their 
 
 # Running the Project
 You must make sure you are in the project home directory. Run the commands listed below to create the machine learning model.
-cd /projecthomedirectory
-python model.py
+
+    cd /projecthomedirectory
+    python model.py
 
