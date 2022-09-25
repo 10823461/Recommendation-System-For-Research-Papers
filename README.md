@@ -1,6 +1,7 @@
 # Recommendation-System-For-Research-Papers
 This system allows junior and senior researchers to probe through series of research papers and get access to relevant papers that suit their description and topic.
-#Project Structure
+
+# Project Structure 
 There are four main sections to this project:
 
 Model.py includes the code for our machine learning model that uses training data from the 'papers.csv' file to suggest research publications.
