@@ -19,6 +19,5 @@ templates - This folder has the HTML template that users may use to enter their 
     python model.py
     
 2. Run app.py using below command to start Flask API
-
     python app.py
 
