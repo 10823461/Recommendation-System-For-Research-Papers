@@ -13,8 +13,12 @@ Request.py - This calls APIs that have previously been created in app.py using t
 templates - This folder has the HTML template that users may use to enter their search query information and see the suggested research articles.
 
 # Running the Project
-You must make sure you are in the project home directory. Run the commands listed below to create the machine learning model.
+1.You must make sure you are in the project home directory. Run the commands listed below to create the machine learning model.
 
     cd /projecthomedirectory
     python model.py
+    
+2. Run app.py using below command to start Flask API
+
+    python app.py
 
